@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Curl to keep app alive
-        run: curl -s https://<tên-app>.onrender.com > /dev/null
+        run: curl -s https://soometa-be.onrender.com > /dev/null
